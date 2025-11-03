@@ -15,3 +15,9 @@ Map of roundbouts in Viseu - Portugal
 Map of Koziołek Matołek's journey based on the book by Kornel Makuszyński
 
 ![Bez nazwy](https://github.com/user-attachments/assets/71af72c4-e27c-4dc7-9aa2-45b27402b62d)
+
+
+## Day 3 - Polygons
+Map of change in Municipal Area [%] after Voronoi Tessellation from Centroids (Poland)
+
+<img width="1542" height="1080" alt="onojew" src="https://github.com/user-attachments/assets/34ade07a-3819-4bb2-b128-71f57fa8396f" />
