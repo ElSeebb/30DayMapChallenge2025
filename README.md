@@ -21,3 +21,9 @@ Map of Koziołek Matołek's journey based on the book by Kornel Makuszyński
 Map of change in Municipal Area [%] after Voronoi Tessellation from Centroids (Poland)
 
 <img width="1542" height="1080" alt="onojew" src="https://github.com/user-attachments/assets/34ade07a-3819-4bb2-b128-71f57fa8396f" />
+
+
+## Day 4 - Data: My data
+Map of one of my bike ride
+
+<img width="3507" height="2480" alt="trasa" src="https://github.com/user-attachments/assets/107aed59-09c3-4906-a786-9683f5292d1d" />
