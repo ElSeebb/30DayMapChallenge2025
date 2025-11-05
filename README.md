@@ -27,3 +27,8 @@ Map of change in Municipal Area [%] after Voronoi Tessellation from Centroids (P
 Map of one of my bike ride
 
 <img width="3507" height="2480" alt="trasa" src="https://github.com/user-attachments/assets/107aed59-09c3-4906-a786-9683f5292d1d" />
+
+## Day 5 - Earth
+The Element of Earth in Spa Treatment: Peat Mud
+
+<img width="3507" height="2480" alt="borowi" src="https://github.com/user-attachments/assets/0b0e4fcd-a557-43fa-ac0a-d89c152f5c28" />
