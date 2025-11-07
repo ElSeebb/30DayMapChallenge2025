@@ -39,3 +39,11 @@ The Element of Earth in Spa Treatment: Peat Mud
 A 3D View of the World’s Highest Countries
 
 ![Bez nazwy (2)](https://github.com/user-attachments/assets/a73c500a-433f-4c91-b2fe-4408051a95f3)
+
+
+## Day 7 - Accessibility
+Public Toilets (1 km² grid) and Tourist Hotspots in Kraków
+
+<img width="3507" height="2480" alt="toal" src="https://github.com/user-attachments/assets/f3093ff4-1f96-48bd-9dd3-ed151db97916" />
+
+
