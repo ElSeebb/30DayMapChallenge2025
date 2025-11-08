@@ -47,3 +47,8 @@ Public Toilets (1 km² grid) and Tourist Hotspots in Kraków
 <img width="3507" height="2480" alt="toal" src="https://github.com/user-attachments/assets/f3093ff4-1f96-48bd-9dd3-ed151db97916" />
 
 
+## Day 8 - Urban
+Urban sprawl in Kraków 1990-2018
+
+![Bez nazwy4](https://github.com/user-attachments/assets/1da62c1d-c351-47b8-9618-26cbd6d4c40b)
+
