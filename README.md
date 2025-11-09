@@ -52,3 +52,9 @@ Urban sprawl in Kraków 1990-2018
 
 ![Bez nazwy4](https://github.com/user-attachments/assets/1da62c1d-c351-47b8-9618-26cbd6d4c40b)
 
+
+##Day 9 - Analog
+Sketch for online tourist map
+
+![20251109_112408](https://github.com/user-attachments/assets/a9e5e1b6-0d5b-4fcb-82fa-811431eb16cb)
+
