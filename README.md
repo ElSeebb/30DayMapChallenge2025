@@ -58,3 +58,10 @@ Sketch for online tourist map
 
 ![20251109_112408](https://github.com/user-attachments/assets/a9e5e1b6-0d5b-4fcb-82fa-811431eb16cb)
 
+
+## Day 10 - Air
+The Element of Air in Medical Treatment: Graduation tower
+
+
+<img width="3507" height="2480" alt="teznie" src="https://github.com/user-attachments/assets/a7d76265-c8e0-4d0b-84c3-a17166069cd9" />
+
