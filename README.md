@@ -65,3 +65,10 @@ The Element of Air in Medical Treatment: Graduation tower
 
 <img width="3507" height="2480" alt="teznie" src="https://github.com/user-attachments/assets/a7d76265-c8e0-4d0b-84c3-a17166069cd9" />
 
+
+## Day 11 - Minimal map
+Where the World Sharpens Its Edges
+
+<img width="1920" height="1080" alt="mininal" src="https://github.com/user-attachments/assets/f18a440f-a65c-46b4-90c9-d80b7b9259ed" />
+
+
