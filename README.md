@@ -72,3 +72,7 @@ Where the World Sharpens Its Edges
 <img width="1920" height="1080" alt="mininal" src="https://github.com/user-attachments/assets/f18a440f-a65c-46b4-90c9-d80b7b9259ed" />
 
 
+## Day 12 - Map from 2125
+Arcology on Bełchatów Coal Pit
+
+<img width="3507" height="2480" alt="belchatow_vis2" src="https://github.com/user-attachments/assets/dbad22ff-b4c9-4664-be0e-3d99cde8039d" />
