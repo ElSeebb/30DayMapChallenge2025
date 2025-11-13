@@ -76,3 +76,11 @@ Where the World Sharpens Its Edges
 Arcology on Bełchatów Coal Pit
 
 <img width="3507" height="2480" alt="belchatow_vis2" src="https://github.com/user-attachments/assets/dbad22ff-b4c9-4664-be0e-3d99cde8039d" />
+
+
+## Day 13 - 10 minute map
+Population Density per 1 km² in the Upper Silesia Conurbation (2021)
+
+<img width="3507" height="2480" alt="konurb" src="https://github.com/user-attachments/assets/ef2b81e5-04b1-483a-b926-501fa1dea559" />
+
+
