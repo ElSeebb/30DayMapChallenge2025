@@ -84,3 +84,7 @@ Population Density per 1 km² in the Upper Silesia Conurbation (2021)
 <img width="3507" height="2480" alt="konurb" src="https://github.com/user-attachments/assets/ef2b81e5-04b1-483a-b926-501fa1dea559" />
 
 
+## Day 14 - Data: OpenStreetMap
+Transportation Network in Silesia Park
+
+<img width="2480" height="3507" alt="park" src="https://github.com/user-attachments/assets/6f276cf9-9291-48db-885a-aa7cb9e109c3" />
