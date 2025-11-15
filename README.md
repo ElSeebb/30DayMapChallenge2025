@@ -88,3 +88,11 @@ Population Density per 1 km² in the Upper Silesia Conurbation (2021)
 Transportation Network in Silesia Park
 
 <img width="2480" height="3507" alt="park" src="https://github.com/user-attachments/assets/6f276cf9-9291-48db-885a-aa7cb9e109c3" />
+
+
+## Day 15 - Fire
+The Element of Fire in Medical Treatment: Heat
+
+<img width="3507" height="2480" alt="term" src="https://github.com/user-attachments/assets/6377a333-e344-489a-a793-d1bf599c5dfb" />
+
+
