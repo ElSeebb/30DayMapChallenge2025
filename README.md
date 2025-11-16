@@ -96,3 +96,8 @@ The Element of Fire in Medical Treatment: Heat
 <img width="3507" height="2480" alt="term" src="https://github.com/user-attachments/assets/6377a333-e344-489a-a793-d1bf599c5dfb" />
 
 
+## Day 16 - Cell
+A Cellular View of InPost Locker Density per 1 km² in Poland
+
+<img width="3507" height="2480" alt="inpost" src="https://github.com/user-attachments/assets/1d3afedf-a067-4511-ac6c-cefd654befac" />
+
