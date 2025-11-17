@@ -101,3 +101,10 @@ A Cellular View of InPost Locker Density per 1 km² in Poland
 
 <img width="3507" height="2480" alt="inpost" src="https://github.com/user-attachments/assets/1d3afedf-a067-4511-ac6c-cefd654befac" />
 
+
+## Day 17 - A new tool - Viewshed
+Shows the area visible from the top of St. Mary’s Tower within a 1 km radius using Viewshed in QGIS
+
+<img width="1920" height="1080" alt="polewidz" src="https://github.com/user-attachments/assets/c9595808-e6c4-43d6-b7a7-6b2834b5347f" />
+
+
