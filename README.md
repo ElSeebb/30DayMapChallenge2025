@@ -108,3 +108,8 @@ Shows the area visible from the top of St. Mary’s Tower within a 1 km radius u
 <img width="1920" height="1080" alt="polewidz" src="https://github.com/user-attachments/assets/c9595808-e6c4-43d6-b7a7-6b2834b5347f" />
 
 
+## Day 18 - Out of this worlds
+Map created using Campaign Cartographer 3 - Mike Schley Inks style
+
+<img width="2991" height="2401" alt="30DayMapChallenge - Day 18" src="https://github.com/user-attachments/assets/ddd68fa3-2413-414f-8fe3-e696cdd61278" />
+
