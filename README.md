@@ -113,3 +113,8 @@ Map created using Campaign Cartographer 3 - Mike Schley Inks style
 
 <img width="2991" height="2401" alt="30DayMapChallenge - Day 18" src="https://github.com/user-attachments/assets/ddd68fa3-2413-414f-8fe3-e696cdd61278" />
 
+
+## Day 19 - Projections
+Sphere Equidistant Conic - Antarctica ring
+
+<img width="3507" height="2480" alt="proj" src="https://github.com/user-attachments/assets/09b7dec1-79f9-44c5-b76c-aae52941a12b" />
