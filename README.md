@@ -118,3 +118,9 @@ Map created using Campaign Cartographer 3 - Mike Schley Inks style
 Sphere Equidistant Conic - Antarctica ring
 
 <img width="3507" height="2480" alt="proj" src="https://github.com/user-attachments/assets/09b7dec1-79f9-44c5-b76c-aae52941a12b" />
+
+
+## Day 20 - Water
+The Element of Water in Medical Treatment: Curative waters
+
+<img width="3507" height="2480" alt="wody" src="https://github.com/user-attachments/assets/3a7213b2-0a16-4c0d-9de5-fb13ab1d8979" />
