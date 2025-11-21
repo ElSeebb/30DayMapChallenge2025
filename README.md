@@ -124,3 +124,9 @@ Sphere Equidistant Conic - Antarctica ring
 The Element of Water in Medical Treatment: Curative waters
 
 <img width="3507" height="2480" alt="wody" src="https://github.com/user-attachments/assets/3a7213b2-0a16-4c0d-9de5-fb13ab1d8979" />
+
+
+## Day 21 - Icons
+Iconic Poland
+
+<img width="3507" height="2480" alt="ikon" src="https://github.com/user-attachments/assets/1084f6cb-47d3-4180-942d-7d6221d2d8ab" />
