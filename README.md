@@ -130,3 +130,11 @@ The Element of Water in Medical Treatment: Curative waters
 Iconic Poland
 
 <img width="3507" height="2480" alt="ikon" src="https://github.com/user-attachments/assets/1084f6cb-47d3-4180-942d-7d6221d2d8ab" />
+
+
+ ## Day 22 - Data challenge: Natural Earth
+ Saudi Arabia
+ 
+<img width="3507" height="2480" alt="arab" src="https://github.com/user-attachments/assets/ad504b64-5d7e-451e-84ad-fb6a872154a4" />
+
+ 
