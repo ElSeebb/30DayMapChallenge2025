@@ -138,3 +138,7 @@ Iconic Poland
 <img width="3507" height="2480" alt="arab" src="https://github.com/user-attachments/assets/ad504b64-5d7e-451e-84ad-fb6a872154a4" />
 
  
+## Day 23 - Process
+InPost density map Process - Infographic created with Canva
+
+<img width="943" height="2000" alt="design process" src="https://github.com/user-attachments/assets/56e43241-05ed-435b-89f3-435b23845ee4" />
