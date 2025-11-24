@@ -142,3 +142,9 @@ Iconic Poland
 InPost density map Process - Infographic created with Canva
 
 <img width="943" height="2000" alt="design process" src="https://github.com/user-attachments/assets/56e43241-05ed-435b-89f3-435b23845ee4" />
+
+
+## Day 24 - Places and their names
+Street typonyms of Kraków's Old Town
+
+<img width="3507" height="2480" alt="topon" src="https://github.com/user-attachments/assets/00d8e325-dc96-4196-8176-3af25e81e384" />
