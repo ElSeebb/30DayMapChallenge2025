@@ -148,3 +148,9 @@ InPost density map Process - Infographic created with Canva
 Street typonyms of Kraków's Old Town
 
 <img width="3507" height="2480" alt="topon" src="https://github.com/user-attachments/assets/00d8e325-dc96-4196-8176-3af25e81e384" />
+
+
+## Day 25 -  Hexagons
+Average Building Heights (Warsaw) in 2012 — 100×100 m Hex Grid
+
+<img width="3507" height="2480" alt="heks" src="https://github.com/user-attachments/assets/202a1280-5f05-499d-b75d-c1a8c3bb9770" />
