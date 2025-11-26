@@ -150,6 +150,12 @@ Street typonyms of Kraków's Old Town
 <img width="3507" height="2480" alt="topon" src="https://github.com/user-attachments/assets/00d8e325-dc96-4196-8176-3af25e81e384" />
 
 
+## Day 26 - Transport
+Sea Transport - Network: Polish Ports to Europe
+
+<img width="3507" height="2480" alt="transport" src="https://github.com/user-attachments/assets/d97afe3c-6a5b-4cd7-bcf2-76bda77c96c8" />
+
+
 ## Day 25 -  Hexagons
 Average Building Heights (Warsaw) in 2012 — 100×100 m Hex Grid
 
