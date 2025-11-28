@@ -166,3 +166,10 @@ Sea Transport - Network: Polish Ports to Europe
 Etnographic Boundaries of the Western Carpathians in Poland
 
 <img width="1920" height="1080" alt="etno" src="https://github.com/user-attachments/assets/d260deda-7fc9-4db7-b192-2dae3ffcddf8" />
+
+
+## Day 28 - Black
+The World by Black Tea Exporters in 2024
+
+<img width="3507" height="2480" alt="herb" src="https://github.com/user-attachments/assets/42a34dce-6868-4988-a920-5079d0063850" />
+
