@@ -173,3 +173,10 @@ The World by Black Tea Exporters in 2024
 
 <img width="3507" height="2480" alt="herb" src="https://github.com/user-attachments/assets/42a34dce-6868-4988-a920-5079d0063850" />
 
+
+## Day 29 -Raster
+2024 Flood Extent in Lewin Brzeski - Satellite Overlay on Elevation models
+
+<img width="3507" height="2480" alt="raster" src="https://github.com/user-attachments/assets/c865ba02-bd4f-43de-b9ae-82b847b414c7" />
+European Union, Copernicus Sentinel-2 imagery
+
