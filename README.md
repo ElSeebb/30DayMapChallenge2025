@@ -180,3 +180,8 @@ The World by Black Tea Exporters in 2024
 <img width="3507" height="2480" alt="raster" src="https://github.com/user-attachments/assets/c865ba02-bd4f-43de-b9ae-82b847b414c7" />
 European Union, Copernicus Sentinel-2 imagery
 
+
+## Day 30 - Makeover
+Improved Version of the Day 26 Map for Better Clarity
+
+<img width="3507" height="2480" alt="porty" src="https://github.com/user-attachments/assets/c82ec7e4-1191-47fc-bfe8-ef6140cee5ee" />
